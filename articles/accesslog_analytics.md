@@ -3,7 +3,7 @@ title: 'LLMでアクセスログを“読む”'
 emoji: "🌟"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["PdM", "ユーザー分析", "LLM", "AI"]
-published: false
+published: true
 publication_name: 'lancers'
 ---
 
