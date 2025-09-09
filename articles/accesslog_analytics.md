@@ -1,5 +1,5 @@
 ---
-title: 'LLMでアクセスログを“読む”'
+title: 'PdMのためのAI活用 ~LLMでアクセスログを“読む”~'
 emoji: "🌟"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["PdM", "ユーザー分析", "LLM", "AI"]
