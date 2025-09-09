@@ -2,7 +2,7 @@
 title: 'PdMのためのAI活用 ~LLMでアクセスログを“読む”~'
 emoji: "🌟"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["PdM", "ユーザー分析", "LLM", "AI"]
+topics: ["PdM", "ユーザー分析", "LLM", "AI", "zennfes2025ai"]
 published: true
 publication_name: 'lancers'
 ---
