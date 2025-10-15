@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": "user_001",
+    "action_owner": "client",
+    "action_type": "アカウント作成",
+    "created": "2025-06-01T01:16:02"
+  },
+  {
+    "user_id": "user_001",
+    "action_owner": "client",
+    "action_type": "仕事詳細閲覧",
+    "uri": "/work/detail/5317121",
+    "referer": "https://www.lancers.jp/work_form/add_finish/5317121?ref=finish",
+    "referer_search_type": "その他",
+    "created": "2025-06-01T01:21:15"
+  }
+]
