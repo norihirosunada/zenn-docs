@@ -3,7 +3,7 @@ title: "【2025年12月版】Cursor vs Windsurf vs Antigravity：エンジニア
 emoji: "🛸"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['IDE', 'AI', 'Antigravity', 'Cursor', 'Windsurf']
-published: false
+published: true
 ---
 
 ## はじめに
