@@ -91,11 +91,31 @@ Antigravity の設定の中にデータ収集に関するものがありまし�
 
 https://antigravity.google/docs/settings
 
-Antogravity 上では、Settings → Account → General の中にあります
+Antigravity 上では、Settings → Account → General の中にあります
 
 ![](https://storage.googleapis.com/zenn-user-upload/61a5a339be2f-20251210.png)
 
 設定をオンにした場合、「interactions のデータを収集してAntigravity の改善に利用する」と記載があります。`interaction` のデータはおそらく対話データを指しているのだと思いますが、これがどこまでの範囲を指していて、利用されるとしてもこれにコードや秘匿したいデータのマスキングなどどこまで配慮がされているかは気になります。
+
+## 追記（12/10 ②）
+
+`interactions` データが指す範囲について、Antigravity の規約内に記載がありました。
+
+> When you use the Service, we record and store your user data, interaction data pertaining to your usage of the Service, related metadata connected to the Service, and any feedback you provide (“Interactions”). Such data may be aggregated over multiple users, and will be collected only when you have the Service running. You will have the option to delete your Interactions. If you would like to request that your Interactions be deleted, you can email antigravity-support@google.com. Note that such Interactions will be used in accordance with the terms of this Agreement unless and until you request deletion in accordance with the previous sentence.
+
+2点重要な点がありました。
+
+### `Interactions` とは、
+
+利用者のユーザーデータ、Antigravity のインタラクションデータ、メタデータ、利用者が提供するフィードバックをまとめて`Interactions` データとしているそうです。
+
+### 削除リクエストについて
+
+インタラクションデータの削除をリクエストが可能です。
+antigravity-support@google.com までメールを送信する必要があるそうです。
+
+
+https://antigravity.google/terms
 
 ## 参考
 
