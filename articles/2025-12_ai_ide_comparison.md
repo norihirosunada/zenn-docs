@@ -95,7 +95,7 @@ Antogravity 上では、Settings → Account → General の中にあります
 
 ![](https://storage.googleapis.com/zenn-user-upload/61a5a339be2f-20251210.png)
 
-設定をオンにした場合、「interactions のデータを収集してAntigravity の改善に利用する」とのことですが、`interaction` のデータはどこまでを指しているのでしょうね。
+設定をオンにした場合、「interactions のデータを収集してAntigravity の改善に利用する」と記載があります。`interaction` のデータはおそらく対話データを指しているのだと思いますが、これがどこまでの範囲を指していて、利用されるとしてもこれにコードや秘匿したいデータのマスキングなどどこまで配慮がされているかは気になります。
 
 ## 参考
 
