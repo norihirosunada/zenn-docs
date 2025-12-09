@@ -83,6 +83,20 @@ AI がブラウザのプレビュー環境と深く連携し始めています�
 
 今回の記事がAIエディタの導入に迷っている方のヒントになれば幸いです。
 
+## 追記（12/10）
+
+Antigravity の設定の中にデータ収集に関するものがありました。
+
+![](https://storage.googleapis.com/zenn-user-upload/4d838df0ce94-20251210.png)
+
+https://antigravity.google/docs/settings
+
+Antogravity 上では、Settings → Account → General の中にあります
+
+![](https://storage.googleapis.com/zenn-user-upload/61a5a339be2f-20251210.png)
+
+設定をオンにした場合、「interactions のデータを収集してAntigravity の改善に利用する」とのことですが、`interaction` のデータはどこまでを指しているのでしょうね。
+
 ## 参考
 
 - https://cursor.com
